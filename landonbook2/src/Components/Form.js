@@ -72,7 +72,7 @@ return (
         </label>
 
     <div className="submit">
-        <input type="submit" value="create a friend" />
+        <input type="submit" name="submitbtn" value="Create a Friend" />
         
     </div>
 
